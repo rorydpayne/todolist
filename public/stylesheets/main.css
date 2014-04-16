@@ -1,0 +1,74 @@
+* {
+	font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+input[type=submit] {
+	opacity: 1;
+}
+
+body {
+	background-image: url(http://cdn.theunlockr.com/wp-content/uploads/2012/06/To-Do-List-feature.jpg);
+	background-size: 1200px auto;
+	background-repeat: repeat-y;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+
+
+
+#header {
+	background-color: #888888;
+	opacity:0.8;
+	font-family: Arial;
+	text-align: center;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px black solid;
+
+}
+#left {
+	background-color: #FFFFFF;
+	opacity:0.9;
+	width: 225px;
+}
+
+#left p {	
+	margin-right: 20px;
+}
+
+#wrapper {
+	
+	margin: 0 auto;
+	width: 850px;
+}
+
+#content {
+	background-color: #FFFFFF;
+	opacity:0.9;
+	position: relative;
+	width: 550px;
+	box-shadow: 2px 5px 5px 5px #888888;
+	min-height: 900px;
+	padding-left: 50px;
+	padding-right: 10px;
+	float: right;
+	margin-right: 10px
+}
+
+
+h3 {
+	font-style: italic;
+	text-align: center;
+}
+
+#wrapper2 {
+	float: right;
+}
+
+input {
+
+}
+
